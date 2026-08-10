@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 id="hi-there">🥂 Hello! I'm <a href="https://github.com/Hippoophispants/Hippoophispants/">Jaco!</a></h1>
+<h1 id="hi-there">🥂 Hello, I'm <a href="https://github.com/Hippoophispants/Hippoophispants/">Jaco!</a></h1>
 <h2 id="intro">I am a 2nd year Computer Science student</h2>
 
 <ul id="description">
