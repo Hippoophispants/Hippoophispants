@@ -11,10 +11,8 @@
   <li>🎨 Outside of tech, I also have other hobbies like:</li>
   <ul>
     <li>🎯 Sports</li>
-    <li>🏋️‍♂️ Weight Lifting</li>
-    <li>🎸 Playing Guitar</li>
-    <li>🍿 Watching Movies</li>
-    <li>🎮 Playing Video Games</li>
+    <li>🎸 Music</li>
+    <li>🎨 Art</li>
   </ul>
 </ul>
 
