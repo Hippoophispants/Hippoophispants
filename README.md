@@ -1,4 +1,4 @@
-<img src="./assets/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; object-position: 0% 90%;">
+<img src="./assets/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg" alt="Banner" width="100%">
 
 <br>
 
@@ -7,7 +7,7 @@
 
 <ul id="description">
   <li>🖥️ I decided to take computer science because I love playing video games and I gained an interest in softwares</li>
-  <li>📚 Right now, I am learning fullstack development for web applications</li>
+  <li>📚 Right now, I am learning full-stack development for web applications</li>
   <li>🎨 Outside of tech, I also have other hobbies like:</li>
   <ul>
     <li>🎯 Sports</li>
