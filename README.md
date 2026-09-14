@@ -18,7 +18,7 @@ I’m building the skills to turn ideas into useful, thoughtful web experiences.
 
 ## Developer profile
 
-I’m a second-year Computer Science student with a curiosity that started with video games and grew into an interest in how software is designed, built, and experienced. Right now, I’m focused on learning full-stack web development—one project, bug fix, and new concept at a time.
+I’m a second-year Computer Science student with a curiosity that started with video games and grew into an interest in how software is designed, built, and experienced.
 
 | Now | Direction | Beyond the screen |
 | :-- | :-- | :-- |
