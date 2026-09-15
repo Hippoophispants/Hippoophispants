@@ -48,7 +48,7 @@ I’m a second-year Computer Science student with a curiosity that started with 
 ## What keeps me curious
 
 ```text
-play games  →  notice the details  →  learn how they are made  →  build my own
+Try apps  →  notice the details  →  learn how they are made  →  build my own
 ```
 
 I enjoy the mix of logic and creativity that comes with programming. Outside of tech, you’ll usually find me following sports, listening to or playing music, or making art.
